@@ -1,0 +1,8 @@
+C:\xampp\htdocs\ejercicio1\appSystemInfoTec_uluan\appSystemInfoTec_uluan\bin\Debug\appSystemInfoTec_uluan.exe
+C:\xampp\htdocs\ejercicio1\appSystemInfoTec_uluan\appSystemInfoTec_uluan\bin\Debug\appSystemInfoTec_uluan.pdb
+C:\xampp\htdocs\ejercicio1\appSystemInfoTec_uluan\appSystemInfoTec_uluan\bin\Debug\appSystemInfoTec_uluan.xml
+C:\xampp\htdocs\ejercicio1\appSystemInfoTec_uluan\appSystemInfoTec_uluan\obj\x86\Debug\appSystemInfoTec_uluan.Resources.resources
+C:\xampp\htdocs\ejercicio1\appSystemInfoTec_uluan\appSystemInfoTec_uluan\obj\x86\Debug\appSystemInfoTec_uluan.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\ejercicio1\appSystemInfoTec_uluan\appSystemInfoTec_uluan\obj\x86\Debug\appSystemInfoTec_uluan.exe
+C:\xampp\htdocs\ejercicio1\appSystemInfoTec_uluan\appSystemInfoTec_uluan\obj\x86\Debug\appSystemInfoTec_uluan.xml
+C:\xampp\htdocs\ejercicio1\appSystemInfoTec_uluan\appSystemInfoTec_uluan\obj\x86\Debug\appSystemInfoTec_uluan.pdb
